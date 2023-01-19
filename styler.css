@@ -1,0 +1,103 @@
+
+/*Universal styles*/
+
+body{
+    color: goldenrod;
+}
+
+video{
+    width: 500px;
+    border-radius: 20px;
+}
+
+img{
+    width: 500px;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+/*Profile
+
+--------------------------*/
+
+header{
+    background: black;
+}
+
+
+
+
+/*Projects
+
+-------------------------*/
+
+.projects{
+    background: maroon;
+
+}
+
+
+.projects .btn{
+    color:goldenrod;
+    background: black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.projects .btn:hover{
+    background: rgba(62, 4, 4,80%);
+    
+}
+
+.education{
+
+    background: maroon;
+
+}
+
+
+
+
+/*Work Experience
+
+--------------------------*/
+
+.work-experience{
+
+    background: black;
+}
+
+
+
+
+/*Education 
+
+-------------------------*/
+
+
+
+
+
+/*Contact 
+
+-------------------------*/
+
+footer{
+
+    background:  maroon;
+    color: goldenrod;
+
+}
+
+
+
+
+
